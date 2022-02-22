@@ -1,3 +1,9 @@
+# To use this file in bash terminal first set permissions in  terminal using:
+# chmod +x gitpod-github-setup.sh
+# then you will be able to run:
+# ./gitpod-github-setup.sh
+
+
 githubRepo=${PWD##*/}
 printf '%s\n' "$githubRepo"
 
