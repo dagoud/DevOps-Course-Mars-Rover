@@ -1,4 +1,4 @@
-# To use this file in bash terminal first set permissions in terminal using:
+# To use this file in bash terminal:
 # chmod +x gitpod-github-setup.sh
 # then you will be able to run:
 # ./gitpod-github-setup.sh
