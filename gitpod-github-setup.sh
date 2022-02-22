@@ -44,7 +44,7 @@ git remote -v
 
 echo "--------------------------------------------------------------------------------------------------"
 
-echo "Now your git remote is repointed - pushing to your gihub user repo -> ${githubUserName}/${githubRepo}"
+echo "Now your git remote is repointed - pushing to your github user repo -> ${githubUserName}/${githubRepo}"
 
 git status
 git push -u origin ${mainOrMaster}
